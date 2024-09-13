@@ -1,9 +1,8 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        k=nums.count(val)
-
-        while k!=0:
-            if val  in nums:
-                nums.remove(val)
-                k=k-1
-        return len(nums)-k
+        i = 0  # pointer to maintain the position in the modified array
+        for j in range(len(nums)):
+            if nums[j] != val:
+                nums[i] = nums[j]
+                i += 1
+        return i
