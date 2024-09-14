@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/IshwaryaGundra/Leetcode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/IshwaryaGundra/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
