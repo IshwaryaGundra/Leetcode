@@ -1,11 +1,12 @@
 from collections import Counter
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        for i in ransomNote:
-            if i not in magazine:
-                return False
+        d=Counter(magazine)
+        for i in range(len(ransomNote)):
+            if ransomNote[i] in d and  d[ransomNote[i]]>0:
+                d[ransomNote[i]] -= 1
             else:
-                magazine = magazine.replace(i,"",1)
+                return False
         return True
 
         
