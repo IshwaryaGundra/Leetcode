@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/IshwaryaGundra/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/IshwaryaGundra/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/IshwaryaGundra/Leetcode/tree/master/0383-ransom-note) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/IshwaryaGundra/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/IshwaryaGundra/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/IshwaryaGundra/Leetcode/tree/master/0383-ransom-note) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/IshwaryaGundra/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/IshwaryaGundra/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/IshwaryaGundra/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/IshwaryaGundra/Leetcode/tree/master/0392-is-subsequence) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/IshwaryaGundra/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshwaryaGundra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshwaryaGundra/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/IshwaryaGundra/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Union Find
 |  |
 | ------- |
